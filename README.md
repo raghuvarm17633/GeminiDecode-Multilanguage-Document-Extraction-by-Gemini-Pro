@@ -2,21 +2,20 @@
 GeminiDecode: Multilanguage Document Extraction by Gemini Pro
 
 
-                                     #Google Cloud Generative AI
+                                                                     **Google Cloud Generative AI**
 
 
-                                Internship Documentation Report 
+                                                                    **Internship Documentation Report** 
 
 
- GeminiDecode: Multilanguage Document Extraction by Gemini Pro
+                                                    **GeminiDecode: Multilanguage Document Extraction by Gemini Pro**
 
 
-
-  Introduction 
+                                                                                **Introduction** 
 
 During my internship at Gemini Pro, I worked on a project called GeminiDecode, which focuses on multilanguage document extraction. The goal of the project was to develop and enhance software that could efficiently extract and process data from documents written in various languages. This report details my contributions, the methodologies used, challenges faced, and the outcomes of the project.
 
- Project Overview 
+                                                                             ** Project Overview **
 
 GeminiDecode is an advanced document extraction tool designed to handle multiple languages. The tool is aimed at businesses and organizations that deal with documents in various languages, helping them streamline their data extraction processes and improve operational efficiency. 
  Objectives 
