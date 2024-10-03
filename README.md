@@ -2,7 +2,7 @@
 GeminiDecode: Multilanguage Document Extraction by Gemini Pro
 
 
-                                     *Google Cloud Generative AI*
+                                     #Google Cloud Generative AI
 
 
                                 Internship Documentation Report 
