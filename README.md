@@ -3,6 +3,10 @@ GeminiDecode: Multilanguage Document Extraction by Gemini Pro
 
 smartinternz id :  https://skillwallet.smartinternz.com/student-profile/feed/3f6626a63b238c488bbfaa3942df5c4f 
 
+Google Developers profile :   https://www.cloudskillsboost.google/public_profiles/a2e0523f-0362-4027-a70f-60fdd8963cdf
+
+
+
 
 #
                                                              **Google Cloud Generative AI**
